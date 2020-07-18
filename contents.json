@@ -1,18 +1,19 @@
 {
-   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.animados",
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.animados",
    "ios_app_store_link":"",
    "sticker_packs":[
       {
          "identifier":"love1",
          "name":"Pack Love 1",
-         "publisher":"Ant Space",
+         "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -146,14 +147,15 @@
       {
          "identifier":"ok",
          "name":"Pack Ok",
-         "publisher":"Ant Space",
+         "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -281,14 +283,15 @@
       {
          "identifier":"memes1",
          "name":"Pack Memes 1",
-         "publisher":"Ant Space",
+         "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -398,14 +401,15 @@
       {
          "identifier":"pikachu",
          "name":"Pack Pikachu",
-         "publisher":"Ant Space",
+         "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -533,14 +537,15 @@
       {
          "identifier":"pokemon",
          "name":"Pack Pokemon",
-         "publisher":"Ant Space",
+         "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -638,14 +643,15 @@
       {
          "identifier":"rickandmorty1",
          "name":"Pack Rick and Morty",
-         "publisher":"Ant Space",
+         "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -815,14 +821,15 @@
       {
          "identifier":"patricio",
          "name":"Pack Patricio",
-         "publisher":"Ant Space",
+         "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
+         "visible":false,
          "tags":"sponge, bob, cartoon",
          "stickers":[
             {
@@ -950,14 +957,15 @@
       {
          "identifier":"simpsons1",
          "name":"Pack The Simpsons",
-         "publisher":"Ant Space",
+         "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
+         "visible":false,
          "tags":"homer, bart, lisa, marge",
          "stickers":[
             {
@@ -1076,11 +1084,12 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
+         "visible":false,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1175,11 +1184,12 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,         
          "tags":"",
          "stickers":[
             {
@@ -1370,11 +1380,12 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -1565,11 +1576,12 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -1652,12 +1664,13 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "tags":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,
          "stickers":[
             {
                "image_file":"1.webp",
@@ -1781,12 +1794,13 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "tags":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,
          "stickers":[
             {
                "image_file":"1.webp",
@@ -1910,11 +1924,12 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -2069,11 +2084,12 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -2174,11 +2190,12 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,    
          "tags":"",
          "stickers":[
             {
@@ -2285,11 +2302,12 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,         
          "tags":"",
          "stickers":[
             {
@@ -2366,11 +2384,12 @@
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
-         "publisher_email":"ant.space.soft@gmail.com",
+         "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
+         "visible":true,         
          "tags":"",
          "stickers":[
             {
