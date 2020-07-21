@@ -413,7 +413,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -550,7 +550,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -694,7 +694,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -771,7 +771,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -878,7 +878,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -985,7 +985,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"sponge, bob, cartoon",
          "stickers":[
             {
@@ -1122,7 +1122,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"homer, bart, lisa, marge",
          "stickers":[
             {
@@ -1253,7 +1253,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1396,7 +1396,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1557,7 +1557,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1712,7 +1712,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1849,7 +1849,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1968,7 +1968,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -2683,7 +2683,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"gato, telegram",
          "stickers":[
             {
@@ -2820,7 +2820,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"gato, telegram",
          "stickers":[
             {
@@ -2981,7 +2981,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"gato, telegram",
          "stickers":[
             {
